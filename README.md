@@ -1,6 +1,6 @@
 # Привет, меня зовут Вячеслав!
 
-[![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)]
+![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)
 
 ### 👨‍💻 Обо мне:
 
