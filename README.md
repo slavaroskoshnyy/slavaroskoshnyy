@@ -1,6 +1,6 @@
-# Привет, меня зовут Артем!
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
----
+# Привет, меня зовут Вячеслав!
+
+[![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)]
 
 ### 👨‍💻 Обо мне:
 
@@ -12,6 +12,7 @@
 - Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
 
 ---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -28,6 +29,7 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
 - [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
 - [Тестировщик от А до Я. История одного QA Engineer](https://www.youtube.com/watch?v=D4pQ0D6HH_0)
@@ -69,7 +71,6 @@
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
-
 
 ---
 
