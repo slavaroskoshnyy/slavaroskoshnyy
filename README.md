@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠 Приложения и языки:
+### 🛠 Приложения и навыки:
 
 <div id="tools">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
