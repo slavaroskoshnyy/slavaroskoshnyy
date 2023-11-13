@@ -7,7 +7,7 @@
 
 - Я начинающий тестировщик с страстью к обеспечению качества ПО. Овладел основами тестирования и готов к быстрому обучению новым технологиям. Мой фокус – не просто находить баги, а создавать безупречные продукты. Готов активно внести свой вклад в ваш проект и стремлюсь к постоянному росту.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](slava.roskoshnyy@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slava.roskoshnyy@gmail.com)
 
 ---
 
