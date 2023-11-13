@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Вячеслав!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)
+![Header](assets/logo.jpg)
 
 ---
 
@@ -17,10 +17,10 @@
 
 <div id="connection">
     <a href="https://wa.me/+79281839170" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
+      <img src="assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
     </a>
     <a href="mailto:slava.roskoshnyy@gmail.com" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/email.png" width="40" height="40" alt="email" title="email"/>
+      <img src="assets/email.png" width="40" height="40" alt="email" title="email"/>
     </a>
 </div>
 
@@ -30,16 +30,16 @@
 
   <div id="socials">
     <!-- <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/linkedin.png" width="40" height="40" alt="linkedin" />
+      <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" />
     </a> -->
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
+      <img src="main/assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
     </a>
     <a href="https://www.instagram.com/slavaroskoshnyy" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/instagram.png" width="40" height="40" alt="instagram" title="instagram" />
+      <img src="assets/instagram.png" width="40" height="40" alt="instagram" title="instagram" />
     </a>
     <a href="https://vk.com/id170645190" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/vkontakte.png" width="40" height="40" alt="vkontakte" title="vkontakte"/>
+      <img src="assets/vkontakte.png" width="40" height="40" alt="vkontakte" title="vkontakte"/>
     </a>
 
   </div>
