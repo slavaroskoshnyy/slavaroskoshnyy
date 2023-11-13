@@ -1,19 +1,27 @@
-<h1 align="center">Привет, меня зовут Вячеслав! </h1>
-<img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32"/>
+<h1 align="center">Привет, меня зовут Вячеслав! 
+<img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32" height="32"/></h1>
 
 ![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)
 
 ### 👨‍💻 Обо мне:
 
 <div id="aboutMe">
-<p>Я начинающий тестировщик с страстью к обеспечению качества ПО. Овладел основами тестирования и готов к быстрому обучению новым технологиям. Мой фокус – не просто находить баги, а создавать безупречные продукты. Готов активно внести свой вклад в ваш проект и стремлюсь к постоянному росту.</p>
-<p> Моё <a href="#" target="_blank">резюме.</a> </p>
+	<p>Я начинающий тестировщик с страстью к обеспечению качества ПО. Овладел основами тестирования и готов к быстрому обучению новым технологиям. Мой фокус – не просто находить баги, а создавать безупречные продукты. Готов активно внести свой вклад в ваш проект и стремлюсь к постоянному росту.</p>
+	<p> Моё <a href="#" target="_blank">резюме.</a> </p>
 </div>
 
-- 📫 Как связаться со мной:
-  <!-- [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) -->
-  [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-blue?style=flat&logo=LinkedIn&logoColor=white)](https://wa.me/+79281839170)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slava.roskoshnyy@gmail.com)
+---
+
+### 📫 Как связаться со мной:
+
+<div id="connection">
+    <a href="https://wa.me/+79281839170" target="_blank">
+      <img src="http://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
+    </a>
+    <a href="mailto:slava.roskoshnyy@gmail.com" target="_blank">
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/email.png" width="40" height="40" alt="email" title="email"/>
+    </a>
+</div>
 
 ---
 
@@ -22,9 +30,6 @@
   <div id="socials">
     <!-- <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
       <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/linkedin.png" width="40" height="40" alt="linkedin" />
-    </a> -->
-	<!-- <a href="https://wa.me/+79281839170" target="_blank">
-      <img src="http://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
     </a> -->
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
       <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
@@ -35,9 +40,6 @@
     <a href="https://vk.com/id170645190" target="_blank">
       <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/vkontakte.png" width="40" height="40" alt="vkontakte" title="vkontakte"/>
     </a>
-    <!-- <a href="mailto:slava.roskoshnyy@gmail.com" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/email.png" width="40" height="40" alt="email" title="email"/>
-    </a> -->
 
   </div>
 
@@ -66,46 +68,4 @@
 
 </div>
 
-<!--
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) -->
-
 ---
-
-<!-- ### 🛠 Тестирование веб-приложений:
-
-<div>
-
-</div>
-
---- -->
-
-<!-- ### 📱 Тестирование мобильных приложений:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
-</div> -->
-<!--
-### 💾 Работа с данными:
-
-<div>
-
-</div>
-
----
-
-### ✏️ Работа с кодом:
-
-<div>
-
-</div>
-
---- -->
