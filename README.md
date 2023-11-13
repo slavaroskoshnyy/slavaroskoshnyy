@@ -7,7 +7,9 @@
 
 - Я начинающий тестировщик с страстью к обеспечению качества ПО. Овладел основами тестирования и готов к быстрому обучению новым технологиям. Мой фокус – не просто находить баги, а создавать безупречные продукты. Готов активно внести свой вклад в ваш проект и стремлюсь к постоянному росту.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slava.roskoshnyy@gmail.com)
+- 📫 Как связаться со мной:
+  <!-- [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) -->
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slava.roskoshnyy@gmail.com)
 
 ---
 
@@ -22,18 +24,13 @@
     </a>
   </div>
 
----
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/slavaroskoshnyy)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/slavaroskoshnyy)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-090909?style=for-the-badge&logo=Whatsapp&logoColor=1C9DEB)](https://wa.me/+79281839170)
 
-## Latest Youtube Videos
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/slavaroskoshnyy) -->
 
-<!-- YOUTUBE:START -->
-
-- [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
-- [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
-- [Тестировщик от А до Я. История одного QA Engineer](https://www.youtube.com/watch?v=D4pQ0D6HH_0)
-- [ОБУЧЕНИЮ НА ТЕСТИРОВЩИКА КОНЕЦ?!!! Проблемы школ и курсов](https://www.youtube.com/watch?v=ZhHt3QF5cts)
-- [Решаем тестовые задания для начинающих тестировщиков в прямом эфире](https://www.youtube.com/watch?v=aYx8_yQdcs4)
-<!-- YOUTUBE:END -->
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/slavaroskoshnyy)
 
 ---
 
@@ -47,6 +44,14 @@
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
+
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ---
 
