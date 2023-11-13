@@ -1,5 +1,6 @@
 <h1 align="center">Привет, меня зовут Вячеслав! 
-<img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32" height="32"/>
+<img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" width="32" height="32" alt="Hello"/></h1>
 
 ![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)
 
@@ -16,7 +17,7 @@
 
 <div id="connection">
     <a href="https://wa.me/+79281839170" target="_blank">
-      <img src="http://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
     </a>
     <a href="mailto:slava.roskoshnyy@gmail.com" target="_blank">
       <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/email.png" width="40" height="40" alt="email" title="email"/>
