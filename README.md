@@ -70,6 +70,6 @@
 
 ---
 
-[![Anurag GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
