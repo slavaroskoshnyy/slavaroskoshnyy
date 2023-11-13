@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Вячеслав! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)
+![Header](assets/logo.jpg)
 
 ### 👨‍💻 Обо мне:
 
@@ -20,26 +20,26 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a> -->
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/telegram.png" width="40" height="40" alt="telegram" />
+      <img src="assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
     </a>
     <a href="https://www.instagram.com/slavaroskoshnyy" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/instagram.png" width="40" height="40" alt="telegram" />
+      <img src="assets/instagram.png" width="40" height="40" alt="instagram" title="instagram" />
     </a>
     <a href="https://wa.me/+79281839170" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="telegram" />
+      <img src="assets/whatsapp.png" width="40" height="40" alt="whatsapp" title="whatsapp" />
     </a>
     <a href="https://vk.com/id170645190" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/vkontakte.png" width="40" height="40" alt="telegram" />
+      <img src="assets/vkontakte.png" width="40" height="40" alt="vkontakte" title="vkontakte"/>
     </a>
     <a href="mailto:slava.roskoshnyy@gmail.com" target="_blank">
-      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/email.png" width="40" height="40" alt="email" />
+      <img src="assets/email.png" width="40" height="40" alt="email" title="email"/>
     </a>
   </div>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/slavaroskoshnyy)
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/slavaroskoshnyy)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/slavaroskoshnyy)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-090909?style=for-the-badge&logo=Whatsapp&logoColor=1C9DEB)](https://wa.me/+79281839170)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id170645190)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id170645190) -->
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/slavaroskoshnyy) -->
 
