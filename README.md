@@ -7,7 +7,7 @@
 
 <div id="aboutMe">
 	<p>Я начинающий тестировщик со страстью к обеспечению качества ПО. Овладел основами тестирования и готов к быстрому обучению новым технологиям. Мой фокус – не просто находить баги, а создавать безупречные продукты. Готов активно внести свой вклад в ваш проект и стремлюсь к постоянному росту.</p>
-	<p> Моё <a href="#" decoration= "none" target="_blank">резюме.</a> </p>
+	<p> Моё <a href="#" target="_blank">резюме.</a> </p>
 </div>
 
 ---
@@ -70,6 +70,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
