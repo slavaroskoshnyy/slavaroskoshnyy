@@ -20,16 +20,19 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a> -->
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/telegram.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://www.instagram.com/slavaroskoshnyy" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/instagram.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://wa.me/+79281839170" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/whatsapp.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://vk.com/id170645190" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/vkontakte.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="mailto:slava.roskoshnyy@gmail.com" target="_blank">
+      <img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/email.png" width="40" height="40" alt="email" />
     </a>
   </div>
 
