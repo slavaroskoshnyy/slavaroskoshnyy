@@ -1,6 +1,8 @@
 <h1 align ="center">Привет, меня зовут Вячеслав! 
 <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" height="32" height="32"/>
 <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" width="32" height="32" alt="Hello"/></h1>
+<h1 align="center">Привет, меня зовут Вячеслав! 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![Header](https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/logo.jpg)
 
@@ -8,7 +10,7 @@
 
 <div id="aboutMe">
 	<p>Я начинающий тестировщик с страстью к обеспечению качества ПО. Овладел основами тестирования и готов к быстрому обучению новым технологиям. Мой фокус – не просто находить баги, а создавать безупречные продукты. Готов активно внести свой вклад в ваш проект и стремлюсь к постоянному росту.</p>
-	<p> Моё <a href="#" stale="textDecoration:none" target="_blank">резюме.</a> </p>
+	<p> Моё <a href="#" style="text-decoration:none" target="_blank">резюме.</a> </p>
 </div>
 
 ---
