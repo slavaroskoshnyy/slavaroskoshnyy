@@ -33,7 +33,7 @@
       <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" />
     </a> -->
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
-      <img src="main/assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
+      <img src="assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
     </a>
     <a href="https://www.instagram.com/slavaroskoshnyy" target="_blank">
       <img src="assets/instagram.png" width="40" height="40" alt="instagram" title="instagram" />
