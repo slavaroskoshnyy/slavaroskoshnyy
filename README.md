@@ -77,6 +77,9 @@
   <a href="https://github.com/slavaroskoshnyy/Ubuntu" target="_blank">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
 	</a>
+  <a href="https://github.com/slavaroskoshnyy/Ubuntu" target="_blank">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
+	</a>
 </div>
 
 ---
