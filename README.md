@@ -78,7 +78,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
 	</a>
   <a href="https://github.com/slavaroskoshnyy/bug" target="_blank">
-		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/bug.jpg" title="Bug" alt="Bug" width="40" height="40"/>&nbsp
+		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/bug2.jpg" title="Bug" alt="Bug" width="40" height="40"/>&nbsp
 	</a>
 </div>
 
