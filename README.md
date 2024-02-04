@@ -29,9 +29,9 @@
 ### 🤝 Социальные сети:
 
   <div id="socials">
-    <!-- <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="www.linkedin.com/in/vyacheslav-roskoshnyy-5a3a142b2" target="_blank">
       <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" />
-    </a> -->
+    </a>
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
       <img src="assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
     </a>
