@@ -108,7 +108,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 	</a>
   <a href="https://github.com/slavaroskoshnyy/Ubuntu" target="_blank">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
+		<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
 	</a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
