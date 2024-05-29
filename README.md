@@ -60,9 +60,9 @@
  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-     <!-- <a href="https://github.com/slavaroskoshnyy/bug" target="_blank"> -->
-		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/bug2.jpg" title="Bug" alt="Bug" width="40" height="40"/>&nbsp
-	<!-- </a> -->
+	<a href="https://github.com/slavaroskoshnyy/check-list" target="_blank">
+		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/excel.jpg" title="Bug" alt="Bug" width="40" height="40"/>&nbsp
+	</a>
 </div>
 
 ---
