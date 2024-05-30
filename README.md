@@ -30,7 +30,7 @@
 
   <div id="socials">
     <a href="https://www.linkedin.com/in/vyacheslav-roskoshnyy/" target="_blank">
-      <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" />
+      <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" title="linkedin"/>
     </a>
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
       <img src="assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
@@ -50,7 +50,7 @@
 
 <div>
    <a href="https://github.com/slavaroskoshnyy/bug" target="_blank">
-		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/bug2.jpg" title="Bug" alt="Bug" width="40" height="40"/>&nbsp
+		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/bug2.jpg" title="bug" alt="bug" width="40" height="40"/>&nbsp
 	</a>
 	<a href="https://github.com/slavaroskoshnyy/jira" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -61,7 +61,7 @@
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 	<a href="https://github.com/slavaroskoshnyy/check-list" target="_blank">
-		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/excel.jpg" title="Bug" alt="Bug" width="40" height="40"/>&nbsp
+		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/excel.jpg" title="check list" alt="check list" width="40" height="40"/>&nbsp
 	</a>
 </div>
 
@@ -113,7 +113,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 	</a>
   <a href="https://github.com/slavaroskoshnyy/Ubuntu" target="_blank">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
+		<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
 	</a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
