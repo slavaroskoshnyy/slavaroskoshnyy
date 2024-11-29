@@ -31,7 +31,7 @@
 ### 🤝 Социальные сети:
 
   <div id="socials">
-    <a href="https://www.linkedin.com/in/vyacheslav-roskoshnyy/" target="_blank">
+    <a href="https://www.linkedin.com/in/vyacheslav-roskoshnyi/" target="_blank">
       <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" title="linkedin"/>
     </a>
     <a href="https://t.me/slavaroskoshnyy" target="_blank">
