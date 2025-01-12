@@ -48,6 +48,15 @@
 
 ---
 
+### AQA
+
+<div>
+   <a href="https://github.com/slavaroskoshnyy/feedbackformtemplate" target="_blank">
+		<img src="https://github.com/slavaroskoshnyy/slavaroskoshnyy/blob/main/assets/cypress.png" title="cypress" alt="cypress" width="40" height="40"/>&nbsp
+	</a>
+</div>
+
+
 ### 📁 Тестовая документация:
 
 <div>
