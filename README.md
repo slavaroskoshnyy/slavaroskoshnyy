@@ -48,7 +48,7 @@
 
 ---
 
-### :computer: 💻 AQA
+### 💻 AQA
 
 <div>
    <a href="https://github.com/slavaroskoshnyy/feedbackformtemplate" target="_blank">
