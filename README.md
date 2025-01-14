@@ -11,7 +11,8 @@
 
 Готов внести вклад в успех вашей команды и улучшение качества продуктов!
 
-Моё [резюме](https://roskoshnyi.ru/).
+Моё [сайт](https://roskoshnyi.ru/).
+Моё [резюме (пдф)](https://drive.google.com/file/d/1_i34EAdGLDsRMDNeNQcChyoxEACuT3BZ/view?usp=drive_link).
 
 ---
 
