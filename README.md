@@ -135,8 +135,8 @@
 </div>
 
 <div style="margin-top:15px">
-  <a href=" https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
-		<img src=" https://www.codewars.com/users/slavaroskoshnyy/badges/small" style="margin-top:15px" title="codewars" alt="codewars"/>&nbsp
+  <a href="https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
+		<img src="https://www.codewars.com/users/slavaroskoshnyy/badges/small" style="margin-top:15px" title="codewars" alt="codewars"/>&nbsp
 	</a> 
 </div>
 
