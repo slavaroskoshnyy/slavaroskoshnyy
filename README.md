@@ -136,9 +136,14 @@
 
 <div style="margin-top: 15px;>
 
-[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)  
+  <a href="https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
+		<img src="https://www.codewars.com/users/slavaroskoshnyy/badges/small" title="codewars" alt="codewars"/>&nbsp
+	</a> 
 
 </div>
+
+[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy) 
+
 
 ---
 
