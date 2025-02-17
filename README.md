@@ -134,16 +134,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 
-<div style="margin-top:15px";>
-
-  <a href=" https://www.codewars.com/users/slavaroskoshnyy/badges/small" target="_blank">
-		<img src="https://www.codewars.com/users/slavaroskoshnyy" title="codewars" alt="codewars"/>&nbsp
+<div style="margin-top:15px">
+  <a href=" https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
+		<img src=" https://www.codewars.com/users/slavaroskoshnyy/badges/small" style="margin-top:15px" title="codewars" alt="codewars"/>&nbsp
 	</a> 
-
 </div>
 
-[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy) 
-
+[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)
 
 ---
 
@@ -152,4 +149,3 @@
 ---
 
 ![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue)
-
