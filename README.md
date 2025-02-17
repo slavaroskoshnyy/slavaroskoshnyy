@@ -134,11 +134,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 
+ [![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)  
+
 ---
 
 [![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue) [![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)  
+![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue)
 
