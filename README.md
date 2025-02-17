@@ -132,15 +132,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-</div>  
-
-<div style="margin-top:15px">
+</div>
+<!-- <div style="margin-top:15px">
   <a href="https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
 		<img src="https://www.codewars.com/users/slavaroskoshnyy/badges/small" style="margin-top:15px" title="codewars" alt="codewars"/>&nbsp
 	</a> 
-</div>
-
-
+</div><br /> -->
+ 
 [![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)
 
 ---
