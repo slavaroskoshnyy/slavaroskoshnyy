@@ -139,3 +139,13 @@
 [![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<img src="https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat-square&color=blue" alt=""/>
+<img src="https://www.codewars.com/users/slavaroskoshnyy&style=flat-square&color=blue" alt=""/>
+
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
+- 📚 Все мои [курсы](https://artsiomrusau.com/courses)
+- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
+  
+---
