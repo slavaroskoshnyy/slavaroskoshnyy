@@ -139,11 +139,6 @@
 [![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
- <!-- https://img.shields.io/badge/any_text-you_like-blue -->
-<!-- <img src="https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue" alt=""/> -->
 
-![](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue)
+![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue)[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/large)](https://www.codewars.com/users/slavaroskoshnyy)  
 
-[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/flat)](https://www.codewars.com/users/slavaroskoshnyy)  
-
-<!-- - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com) -->
