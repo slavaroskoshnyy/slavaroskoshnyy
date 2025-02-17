@@ -134,10 +134,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 
-<div style="margin-top: 15px;>
+<div style="margin-top:15px";>
 
-  <a href="https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
-		<img src="https://www.codewars.com/users/slavaroskoshnyy/badges/small" title="codewars" alt="codewars"/>&nbsp
+  <a href=" https://www.codewars.com/users/slavaroskoshnyy/badges/small" target="_blank">
+		<img src="https://www.codewars.com/users/slavaroskoshnyy" title="codewars" alt="codewars"/>&nbsp
 	</a> 
 
 </div>
