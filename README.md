@@ -140,5 +140,5 @@
 
 ---
 
-![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue)[![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/large)](https://www.codewars.com/users/slavaroskoshnyy)  
+![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue) [![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)  
 
