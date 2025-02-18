@@ -32,21 +32,20 @@
 
 ### 🤝 Социальные сети:
 
-  <div id="socials">
-    <a href="https://www.linkedin.com/in/vyacheslav-roskoshnyi/" target="_blank">
-      <img src="assets/linkedin.png" width="40" height="40" alt="linkedin" title="linkedin"/>
-    </a>
-    <a href="https://t.me/slavaroskoshnyy" target="_blank">
-      <img src="assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
-    </a>
-    <a href="https://www.instagram.com/slavaroskoshnyy" target="_blank">
-      <img src="assets/instagram.png" width="40" height="40" alt="instagram" title="instagram" />
-    </a>
-    <a href="https://vk.com/id170645190" target="_blank">
-      <img src="assets/vkontakte.png" width="40" height="40" alt="vkontakte" title="vkontakte"/>
-    </a>
-
-  </div>
+<div id="socials">
+	<a href="https://www.linkedin.com/in/vyacheslav-roskoshnyi/" target="_blank">
+	<img src="assets/linkedin.png" width="40" height="40" alt="linkedin" title="linkedin"/>
+	</a>
+	<a href="https://t.me/slavaroskoshnyy" target="_blank">
+	<img src="assets/telegram.png" width="40" height="40" alt="telegram" title="telegram"/>
+	</a>
+	<a href="https://www.instagram.com/slavaroskoshnyy" target="_blank">
+	<img src="assets/instagram.png" width="40" height="40" alt="instagram" title="instagram" />
+	</a>
+	<a href="https://vk.com/id170645190" target="_blank">
+	<img src="assets/vkontakte.png" width="40" height="40" alt="vkontakte" title="vkontakte"/>
+	</a>
+</div>
 
 ---
 
@@ -137,11 +136,6 @@
 
 [![codewars](https://www.codewars.com/users/slavaroskoshnyy/badges/small)](https://www.codewars.com/users/slavaroskoshnyy)
 
-<!-- <div style="margin-top:15px">
-  <a href="https://www.codewars.com/users/slavaroskoshnyy" target="_blank">
-		<img src="https://www.codewars.com/users/slavaroskoshnyy/badges/small" style="margin-top:15px" title="codewars" alt="codewars"/>&nbsp
-	</a> 
-</div><br /> -->
 ---
 
 [![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
