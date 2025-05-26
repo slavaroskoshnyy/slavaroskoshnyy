@@ -11,7 +11,7 @@
 
 Готов внести вклад в успех вашей команды и улучшение качества продуктов!
 
-Мой [сайт](https://slavaroskoshnyy.github.io/CV_QA_Engeneer_Roskoshnyi/).
+Мой [сайт](https://slavaroskoshnyy.github.io/CV_QA_Engineer_Roskoshnyi/).
 
 Моё [резюме (пдф)](https://drive.google.com/file/d/12bgCtYQPnou_kr5q0eNM0NZcDRqAPmt1/view?usp=sharing).
 
