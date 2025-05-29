@@ -52,7 +52,7 @@
 ### 💻 AQA
 
 <div>
-   <a href="https://github.com/slavaroskoshnyy/CypressProject" target="_blank"> -->
+   <a href="https://github.com/slavaroskoshnyy/CypressProject" target="_blank">
 		<img src="assets/cypress.jpg" style="border-radius: 50%" title="cypress" alt="cypress" width="40" height="40" />&nbsp
 	</a>
 </div>
