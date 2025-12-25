@@ -55,6 +55,9 @@
    <a href="https://github.com/slavaroskoshnyy/Cypress" target="_blank">
 		<img src="assets/cypress.jpg" style="border-radius: 50%" title="cypress" alt="cypress" width="40" height="40" />&nbsp
 	</a>
+	<a href="https://github.com/slavaroskoshnyy/Playwright" target="_blank">
+		<img src="assets/playwright-logo.svg" style="border-radius: 50%" title="playwright" alt="playwright" width="40" height="40" />&nbsp
+	</a>
 </div>
 
 ---
