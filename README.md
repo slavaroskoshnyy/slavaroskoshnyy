@@ -149,7 +149,8 @@
 [![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=tokyonight&locale=ru#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
 
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=slavaroskoshnyy&show_icons=true&locale=ru)
+<!-- ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=slavaroskoshnyy&show_icons=true&bg_color=00000000&locale=ru) -->
+
 ---
 
 ![viewsCounter](https://komarev.com/ghpvc/?username=slavaroskoshnyy&style=flat&color=blue)
