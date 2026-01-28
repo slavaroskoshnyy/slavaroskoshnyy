@@ -132,7 +132,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
 	</a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="/assets/bash.jpg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 </br>
@@ -141,13 +141,12 @@
 
 ---
 
-<!-- [![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Anurag's GitHub статистика](https://github-readme-stats.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 НЕ РАБОТАЕТ!!!!!
 -->
 
 [![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=slavaroskoshnyy&show_icons=true&theme=tokyonight&locale=ru#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
-
 
 <!-- ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=slavaroskoshnyy&show_icons=true&bg_color=00000000&locale=ru) -->
 
