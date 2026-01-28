@@ -132,7 +132,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
 	</a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="/assets/bash.jpg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <!-- <img src="/assets/bash.jpg" title="bash" alt="bash" width="40" height="40"/>&nbsp -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 </br>
